@@ -4,8 +4,12 @@ One click configuration of pwn environment \
 when you get a new kali OS , \
 and you do not wanna use docker \
 It can help you bulid the env quicklt 
+### Useage
 
-
+```sh
+ chmod +x main.sh
+ ./main.sh
+```
 ```
  if you don't believe me, you can copy and run the code one by one
 ```
@@ -17,6 +21,7 @@ It can help you bulid the env quicklt
 5. pip china origin
 6. pwntools
 7. gcc with m32
+8. config vim
 
 ### My Email
 
