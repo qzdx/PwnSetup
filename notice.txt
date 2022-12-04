@@ -1,0 +1,1 @@
+arm架构CPU不能运行IDA PRO exe
