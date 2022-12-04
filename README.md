@@ -17,6 +17,7 @@ It can help you bulid the env quicklt
 5. pip china origin
 6. pwntools
 7. gcc with m32
+8. config vim
 
 ### My Email
 
